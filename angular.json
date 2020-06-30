@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "NgSight"
+    }
+  },
+  "defaultProject": "NgSight",
+  "cli": {
+    "analytics": false
+  }
 }
